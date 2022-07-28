@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhayy13th
-- 👀 I’m interested in software development/ AI
+- 👀 I’m interested in software development,QA,UI/UX,Node.js
 - 🌱 I’m currently learning python,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
