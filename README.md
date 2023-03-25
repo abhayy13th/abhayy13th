@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayy13th
-- 👀 I’m interested in software development,QA,UI/UX,Node.js
-- 🌱 I’m currently learning python,java
+- 👀 I’m interested in software development,UI/UX,Node.js,Flutter
+- 🌱 I’m currently learning python,javascript,flutter,dotNet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
