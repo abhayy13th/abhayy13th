@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhayy13th
-- 👀 I’m interested in software development,UI/UX,Node.js,Flutter
-- 🌱 I’m currently learning python,javascript,flutter,dotNet
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development,UI/UX,Node.js,Flutter,DotNet,Python/Django
+- 🌱 I’m currently learning python for machine learning
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ...
 
 <!---
