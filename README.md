@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayy13th
-- 👀 I’m interested in software development,UI/UX,Node.js,Flutter,DotNet,Python/Django
-- 🌱 I’m currently learning python for machine learning
+- 👀 I’m interested in Software Development, UI/UX and Project management
+- 🌱 I’m currently learning machine learning, NLP Computer Vision and Action
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ...
 
